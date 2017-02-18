@@ -1,0 +1,8 @@
+Temp
+Library
+.vscode
+Builds
+**/[Tt]humbs.db
+*.sln
+*.csproj
+*.userprefs
